@@ -1,2 +1,4 @@
-# quiz8
-2020q3 Homework (quiz8)
+# Skip list test
+
+> make
+> make testall
